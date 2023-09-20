@@ -1,7 +1,7 @@
 # Kodluyoruz ilk Repo
 Kodluyoruz React Native ile Mobile App Eğitimi kapsamında açtığım ilk repo. İçerisinde 1 adet README dosyası, bir adet index.html bulunuyor.
 
-![görsel](C:\Users\HUAWEI\Desktop\kodluyoruz.png)
+![github](figures/kodluyoruz.png)
 
 ## Installation
 Öncelikle projeyi clonelayın.
